@@ -24,6 +24,7 @@ Publishing a well-written article on a high-authority health website allows you 
 - Gain access to a health-focused audience.
 - Improve your domain authority and search engine rankings through strategic backlinks.
 - Drive targeted traffic that is more likely to convert into leads or customers.
+
 Guest Post Sites Information
 ============================
 
@@ -38,47 +39,48 @@ Guest Post Sites Information
    * - Atespost.com 🌐
      - 53 🏅
      - 44 📊
-     - Contact 📨 <https://atespost.com/contact-for-guest-post/>_
+     - `Contact 📨 <https://atespost.com/contact-for-guest-post/>`_
    * - sites.google.com 🌐
      - 96 🏅
      - 85 📊
-     - Contact 📨 <https://atespost.com/contact-for-guest-post/>_
+     - `Contact 📨 <https://atespost.com/contact-for-guest-post/>`_
    * - medium.com 🌐
      - 95 🏅
      - 90 📊
-     - Contact 📨 <https://atespost.com/contact-for-guest-post/>_
+     - `Contact 📨 <https://atespost.com/contact-for-guest-post/>`_
    * - issuu.com 🌐
      - 93 🏅
      - 86 📊
-     - Contact 📨 <https://atespost.com/contact-for-guest-post/>_
+     - `Contact 📨 <https://atespost.com/contact-for-guest-post/>`_
    * - github.com 🌐
      - 98 🏅
      - 92 📊
-     - Contact 📨 <https://atespost.com/contact-for-guest-post/>_
+     - `Contact 📨 <https://atespost.com/contact-for-guest-post/>`_
    * - adobe.com 🌐
      - 97 🏅
      - 91 📊
-     - Contact 📨 <https://atespost.com/contact-for-guest-post/>_
+     - `Contact 📨 <https://atespost.com/contact-for-guest-post/>`_
    * - wordpress.com 🌐
      - 94 🏅
      - 88 📊
-     - Contact 📨 <https://atespost.com/contact-for-guest-post/>_
+     - `Contact 📨 <https://atespost.com/contact-for-guest-post/>`_
    * - wix.com 🌐
      - 89 🏅
      - 80 📊
-     - Contact 📨 <https://atespost.com/contact-for-guest-post/>_
+     - `Contact 📨 <https://atespost.com/contact-for-guest-post/>`_
    * - weebly.com 🌐
      - 85 🏅
      - 79 📊
-     - Contact 📨 <https://atespost.com/contact-for-guest-post/>_
+     - `Contact 📨 <https://atespost.com/contact-for-guest-post/>`_
    * - blogger.com 🌐
      - 91 🏅
      - 84 📊
-     - Contact 📨 <https://atespost.com/contact-for-guest-post/>_
+     - `Contact 📨 <https://atespost.com/contact-for-guest-post/>`_
    * - tumblr.com 🌐
      - 90 🏅
      - 83 📊
-     - Contact 📨 <https://atespost.com/contact-for-guest-post/>_
+     - `Contact 📨 <https://atespost.com/contact-for-guest-post/>`_
+
 
 Guest posts are particularly effective for businesses in niches such as holistic wellness, nutrition, fitness, mental health, supplements, telemedicine, and more.
 
